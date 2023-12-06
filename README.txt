@@ -1,7 +1,3 @@
-John Alexander
-CSC 4520
-Final Project
-
 This program uses the Bridges API as its dataset. In order for the program to run, it is REQUIRED for the Bridges JAR file to be installed
 into the Java Project library. The Bridges JAR file is included within the .zip folder and a tutorial on how to install the the library 
 will be linked down below, as well as the instructions how to do it as well for the ECLIPSE IDE.
